@@ -151,7 +151,7 @@ nvidia_haystack = [
   "nvidia-haystack~=0.3.0",
 ]
 litellm = [
-  "litellm==1.84.0"
+  "litellm==1.74.9"
 ]
 openai = [
   "openai~=1.106"
