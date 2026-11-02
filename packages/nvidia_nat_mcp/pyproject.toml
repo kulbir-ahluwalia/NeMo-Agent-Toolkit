@@ -22,7 +22,7 @@ dependencies = [
   # Keep sorted!!!
   "nvidia-nat~=1.4",
   "aiorwlock~=1.5",
-  "mcp~=1.14",
+  "mcp~=1.30",
 ]
 requires-python = ">=3.11,<3.14"
 description = "Subpackage for MCP client integration in NeMo Agent toolkit"
